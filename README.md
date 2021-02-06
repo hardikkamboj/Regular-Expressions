@@ -27,4 +27,9 @@ re.sub(pattern, replacement pattern / function, text) -> returns the text where 
   - using re.sub with a user defined function 
   - re.split
   
-  
+## Single character patterns
+[This file](https://github.com/hardikkamboj/Regular-Expressions/blob/main/Single%20character%20pattern%2C%20wildcard.ipynb) covers the following topic - 
+  - searching for a single character, and making the search case insensitive. 
+  - Using range of characters to search, eg, [a-z]
+  - Using wildcard .(dot) to find all characters also, how can we search if we want to search a dot.
+  - Finding newlines, using hexadeciaml code and unicode. 
