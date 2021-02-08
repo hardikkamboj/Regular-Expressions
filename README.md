@@ -41,3 +41,12 @@ re.sub(pattern, replacement pattern / function, text) -> returns the text where 
   - enabling multiline mode and searching for a word at the beginning of all lines. 
   - searching for a word at the end of a string (by using '$' )
   - enabling multiline mode and searching for a word at the end of all lines
+
+## Character classes
+[This file](https://github.com/hardikkamboj/Regular-Expressions/blob/main/Character%20classes.ipynb) covers the following topic - 
+  - searching for word digits using \d character class
+  - searching digits in other scripts than english
+  - using negation \D
+  - seaching for alpa numeric characters using \w
+  - using \w in devnagari script
+  - using the negation of \w, which is \W
