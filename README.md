@@ -33,3 +33,11 @@ re.sub(pattern, replacement pattern / function, text) -> returns the text where 
   - Using range of characters to search, eg, [a-z]
   - Using wildcard .(dot) to find all characters also, how can we search if we want to search a dot.
   - Finding newlines, using hexadeciaml code and unicode. 
+  
+## Anchors 
+[This file](https://github.com/hardikkamboj/Regular-Expressions/blob/main/Anchors.ipynb) covers the following topic - 
+  - searching for a given word (using word boundary)
+  - searching for a word at beginning of a string
+  - enabling multiline mode and searching for a word at the beginning of all lines. 
+  - searching for a word at the end of a string
+  - enabling multiline mode and searching for a word at the end of all lines
