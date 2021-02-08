@@ -50,3 +50,12 @@ re.sub(pattern, replacement pattern / function, text) -> returns the text where 
   - seaching for alpa numeric characters using \w
   - using \w in devnagari script
   - using the negation of \w, which is \W
+  
+  
+## Quantifiers
+[This file](https://github.com/hardikkamboj/Regular-Expressions/blob/main/Quantifiers.ipynb) covers the following topics -
+  - Searching words with custom matches like - 
+    - aplhabet followed by a digit
+    - alphabet followed by zero or more digit
+    - alphabet followrd by one or more digit
+    - two alphabets followed by one or more digits
