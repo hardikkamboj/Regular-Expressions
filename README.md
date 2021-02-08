@@ -37,7 +37,7 @@ re.sub(pattern, replacement pattern / function, text) -> returns the text where 
 ## Anchors 
 [This file](https://github.com/hardikkamboj/Regular-Expressions/blob/main/Anchors.ipynb) covers the following topic - 
   - searching for a given word (using word boundary)
-  - searching for a word at beginning of a string
+  - searching for a word at beginning of a string ( by using '^' )
   - enabling multiline mode and searching for a word at the beginning of all lines. 
-  - searching for a word at the end of a string
+  - searching for a word at the end of a string (by using '$' )
   - enabling multiline mode and searching for a word at the end of all lines
